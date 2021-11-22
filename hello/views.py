@@ -2,4 +2,4 @@ from django.http import HttpResponse
 from django.shortcuts import render
 
 def hello(request):
-    return HttpResponse("Hello, World & Kevin.  How are you doing!")
+    return HttpResponse("Hello, World & Kevin.  Whats new today!")
